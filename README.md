@@ -2,7 +2,7 @@
 :memo: I put below some useful links found on my daily reading over the web. 
 
 ## CSS
-[CSS Referecence - A free visual guide to CSS](http://cssreference.io/?utm_source=codropscollective){:target="_blank"}
+- [CSS References - A free visual guide to CSS](http://cssreference.io/?utm_source=codropscollective)
 
 ## HTML 
 
