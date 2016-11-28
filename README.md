@@ -2,7 +2,7 @@
 :memo: I put below some useful links found on my daily reading over the web. 
 
 ## CSS
-	[Blog do Da2k](http://blog.da2k.com.br)
+[CSS Referecence - A free visual guide to CSS](http://cssreference.io/?utm_source=codropscollective)
 
 ## HTML 
 
