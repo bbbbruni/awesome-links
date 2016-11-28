@@ -1,12 +1,15 @@
 # <Awesome-links>
-:memo: Repository with useful links found on my daily reading over the web, like articles, tutorials and more.
-
-## Career
+:memo: I put below some useful links found on my daily reading over the web. 
 
 ## CSS
+	[CSS Referecence - A free visual guide to CSS](http://cssreference.io/?utm_source=codropscollective)
 
 ## HTML
 
 ## Javascript
 
-## Other things
+## UX & Design
+
+## Front-end career
+
+## Other cooooool things
