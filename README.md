@@ -1,12 +1,12 @@
 # awesome-links
 :memo: Repository with useful links found on my daily reading over the web, like articles, tutorials and more;
 
-# Career
+## Career
 
-# CSS
+## CSS
 
-# HTML
+## HTML
 
-# Javascript
+## Javascript
 
-# Other things
+## Other things
