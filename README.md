@@ -13,4 +13,7 @@
 ## Front-end career
 - [Guide to be a Front-end Developer](https://github.com/woliveiras/front-end-career) [ - By @woliveiras](https://github.com/woliveiras)
 
+## Daily reading
+- [Front-end Front - Filtered articles about front-end things](https://frontendfront.com/)
+
 ## Other cooooool things
