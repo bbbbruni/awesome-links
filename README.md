@@ -15,6 +15,6 @@
 - [Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237#.j4875f3gr)
 
 ## Daily reading
-- [Front-end Front - Filtered articles about front-end things](https://frontendfront.com/)
+- [Front-end Front - Filtered articles about front-end things](https://frontendfront.com/) 
 
 ## Other cooooool things
