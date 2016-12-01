@@ -3,6 +3,8 @@
 
 ## CSS
 - [CSS References - A free visual guide to CSS](http://cssreference.io/?utm_source=codropscollective)
+- [CSS Architecture first steps](https://www.ckl.io/blog/css-architecture-first-steps/)
+- [ITCSS Architecture](http://itcss.io/)
 
 ## HTML 
 
