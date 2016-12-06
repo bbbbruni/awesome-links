@@ -6,7 +6,7 @@
 - [CSS Architecture first steps](https://www.ckl.io/blog/css-architecture-first-steps/)
 - [ITCSS Architecture](http://itcss.io/)
 - [Maintainable CSS](http://maintainablecss.com/chapters/introduction/)
-- [WTF HTML & CSS](http://wtfhtmlcss.com/)
+- [WTF HTML & CSS](http://wtfhtmlcss.com/) [ - By @mdo](https://github.com/mdo)
 
 ## HTML 
 
