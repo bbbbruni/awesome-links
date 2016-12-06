@@ -2,7 +2,7 @@
 :memo: I put below some useful links found on my daily reading over the web. 
 
 ## CSS
-- [CSS References - A free visual guide to CSS](http://cssreference.io/?utm_source=codropscollective)
+- [CSS References - A free visual guide to CSS :heart:](http://cssreference.io/?utm_source=codropscollective)
 - [CSS Architecture first steps](https://www.ckl.io/blog/css-architecture-first-steps/)
 - [ITCSS Architecture](http://itcss.io/)
 - [Maintainable CSS](http://maintainablecss.com/chapters/introduction/)
