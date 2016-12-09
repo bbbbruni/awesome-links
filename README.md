@@ -1,5 +1,5 @@
 # <Awesome-links>
-:memo: I put below some useful links found on my daily reading over the web. 
+:memo: Some useful links found on my daily reading over the web. 
 
 ## CSS
 - [CSS References - A free visual guide to CSS :heart:](http://cssreference.io/?utm_source=codropscollective)
